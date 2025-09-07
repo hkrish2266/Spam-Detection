@@ -7,7 +7,7 @@ A machine learning project for detecting spam emails using traditional ML models
 - Evaluation using accuracy, precision, recall, and F1-score
 
 ## 📂 Dataset
-- Dataset used: [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
+- Dataset used: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?utm_source)
 - Format: CSV file with labels (`spam` / `ham`) and messages
 
 ## 🛠️ Tech Stack
