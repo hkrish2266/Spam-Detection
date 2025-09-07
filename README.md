@@ -19,7 +19,7 @@ A machine learning project for detecting spam emails using traditional ML models
 ## ⚡ How to Run
 ```bash
 # Clone the repo
-git clone https://github.com/krishkri47542/Spam-Detection.git
+git clone https://github.com/hkrish2266/Spam-Detection.git
 cd Spam-Detection
 
 # Install dependencies
